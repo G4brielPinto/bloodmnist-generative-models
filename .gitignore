@@ -1,0 +1,41 @@
+# Python environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+*.env
+
+# Python and notebook artefacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Data, downloads, generated samples, model weights and experiment outputs
+data/
+datasets/
+downloads/
+artifacts/
+outputs/
+results/
+runs/
+logs/
+checkpoints/
+models/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.csv
+*.tsv
+
+# Local tools and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

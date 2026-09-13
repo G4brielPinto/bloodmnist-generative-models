@@ -1,0 +1,12 @@
+torch
+torchvision
+medmnist
+numpy
+matplotlib
+pandas
+seaborn
+tqdm
+tensorboard
+torchmetrics[image]
+pytorch-fid
+jupyterlab
